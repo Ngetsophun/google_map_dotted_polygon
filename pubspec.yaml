@@ -1,6 +1,6 @@
 name: google_map_dotted_polygon
 description: " A Flutter package to draw dotted or dashed polygons on Google Maps. Supports customizable color, gap, and stroke width for flexible styling of map zones and routes."
-version: 1.0.1
+version: 1.0.0
 homepage: https://github.com/Ngetsophun/google_map_dotted_polygon
 
 environment:
@@ -24,8 +24,7 @@ dev_dependencies:
 flutter:
 
   # To add assets to your package, add an assets section, like this:
-  assets:
-    - assets/screenshot.jpg
+#assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   #
